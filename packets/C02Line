@@ -1,0 +1,3 @@
+var Module = require("module");
+
+Module.exports = C02Line;
